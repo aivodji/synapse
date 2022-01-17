@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Synapse IC LLC"
-baseURL = "https://matchisoft.github.io/synapse/"
+title = "Synapse-IC LLC"
+baseURL = "https://aivodji.github.io/synapse/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
